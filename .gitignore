@@ -49,3 +49,6 @@ dados_cvm/ITR/itr_cia_aberta_2019.zip
 dados_cvm/ITR/itr_cia_aberta_2020.zip
 dados_cvm/ITR/itr_cia_aberta_2021.zip
 dados_cvm/ITR/itr_cia_aberta_2022.zip
+base.csv
+dados_cvm/DFP/filtro_dreDFP.csv
+dados_cvm/ITR/filtro_dreITR.csv
